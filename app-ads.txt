@@ -1,0 +1,10 @@
+# app-ads.txt for Noodle Bar (developer: George Mills)
+# Lists the ad networks allowed to sell ads in the app. It must be at the top level of
+# the developer website (e.g. https://yourname.github.io/app-ads.txt) - the same website
+# as the Marketing URL in App Store Connect.
+
+# Google AdMob (publisher ID from the AdMob account)
+google.com, pub-6033352708590386, DIRECT, f08c47fec0942fa0
+
+# AppLovin (mediation) - add the line(s) from the AppLovin dashboard here
+# Unity Ads (mediation) - add the line(s) from the Unity dashboard here
